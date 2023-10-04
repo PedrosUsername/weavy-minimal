@@ -1,6 +1,7 @@
 # WeavyMinimal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.<br />
+This project uses the [@weavy/dropin-js](https://www.npmjs.com/package/@weavy/dropin-js) package on version 17.2.1
 
 ## Development server
 
